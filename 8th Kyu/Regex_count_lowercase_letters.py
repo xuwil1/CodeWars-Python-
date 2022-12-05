@@ -1,6 +1,6 @@
-Your task is simply to count the total number of lowercase letters in a string.
+#Your task is simply to count the total number of lowercase letters in a string.
 
-Examples
+#Examples
 #lowercaseCount("abc"); ===> 3
 
 #lowercaseCount("abcABC123"); ===> 3
